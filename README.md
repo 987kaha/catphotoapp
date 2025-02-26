@@ -1,2 +1,2 @@
-# catphotopp
-freecodecamp
+# catphotoapp
+freecodecamp project
